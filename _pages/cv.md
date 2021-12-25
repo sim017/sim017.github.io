@@ -13,26 +13,34 @@ Education
 ======
 * B.Tech in Computer Engineering, NIT Surat, 2019
 
+Research experience
+======
+* ML-CV Researcher: ML-CV Lab NIT, Norwegian Biometrics Lab, NTNU Norway Part-time
+  * NIT Surat, NTNU
+  * Duties included: Image Super Resolution for synthetic and real world images
+* Part time Researcher 
+  * NIT Surat
+  * Duties included: Develop algorithm for covid trajectory and clustering
+* Part time Researcher 
+  * NIT Surat
+  * Duties included: Image Based Fake Tweet Classification 
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineer - Machine Learning: GE Healthcare
+  * Duties included: Develop and train Deep Learning models for medical imaging solutions.
+* Software Development Intern : Amazon
+  * Duties included: Make the internal services GDPR compliant.
+* UI/UX Intern : YOLO Health 
+  * Duties included: Develop Dashboard using developer tools to integrate device inventory services.
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages : Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS
+* Frameworks : TensorFlow, Keras, ONNX, Django, Flask, Mockito, Sanic
+* Developer Tools :  AWS, Git, OpenCL, Docker, Kubernetes, VS Code, Visual Studio, PyCharm, Ansible
+* Libraries : andas, NumPy, Matplotlib, OpenCV
 
 Publications
 ======
@@ -40,18 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Former member for the ACM NIT Surat, and Drishti.
