@@ -2,14 +2,15 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about image based fake tweet detection.'
+date: 2020-08-08
+venue: 'IEEE Incet'
+paperurl: 'https://ieeexplore.ieee.org/document/9154072'
+citation: 'D. P. Rana, S. Bawkar, M. Jain, S. Bothra and S. Baldaniya, "Image Based Fake Tweet Retrieval (IBFTR)," 2020 International Conference for Emerging Technology (INCET), 2020, pp. 1-8, doi: 10.1109/INCET49848.2020.9154072.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9154072)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: citation: 'D. P. Rana, S. Bawkar, M. Jain, S. Bothra and S. Baldaniya, "Image Based Fake Tweet Retrieval (IBFTR)," 2020 International Conference for Emerging Technology (INCET), 2020, pp. 1-8, doi: 10.1109/INCET49848.2020.9154072.&quot; <i>Journal 1</i>. 1(1).'
+---
